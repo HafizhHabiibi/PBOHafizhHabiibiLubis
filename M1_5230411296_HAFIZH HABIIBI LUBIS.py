@@ -21,5 +21,5 @@ def volumeLimas(a, b):
 
 lp = luasPermukaanLimas(a, b)
 vo = volumeLimas(a, b)
-print(f"Luas Permukaan Limas Tersebut Adalah : {lp} CM Persegi")
-print(f"Volume Limas Tersebut Adalah : {vo} CM Kubik")
+print(f"Luas Permukaan Limas Segi Empat Tersebut Adalah : {lp} CM Persegi")
+print(f"Volume Limas Tersebut Segi Empat Adalah : {vo} CM Kubik")
